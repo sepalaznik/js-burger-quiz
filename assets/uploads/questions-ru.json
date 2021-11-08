@@ -1,0 +1,76 @@
+{
+    "questions": [
+        {
+            "question": "Какого цвета бургер?",
+            "answers": [
+                {
+                    "title": "Стандарт",
+                    "url": "./assets/image/burger.png"
+                },
+                {
+                    "title": "Черный",
+                    "url": "./assets/image/burgerBlack.png"
+                }
+            ],
+            "type": "radio"
+        },
+        {
+            "question": "Из какого мяса котлета?",
+            "answers": [
+                {
+                    "title": "Курица",
+                    "url": "./assets/image/chickenMeat.png"
+                },
+                {
+                    "title": "Говядина",
+                    "url": "./assets/image/beefMeat.png"
+                },
+                {
+                    "title": "Свинина",
+                    "url": "./assets/image/porkMeat.png"
+                }
+            ],
+            "type": "radio"
+        },
+        {
+            "question": "Дополнительные ингредиенты?",
+            "answers": [
+                {
+                    "title": "Помидор",
+                    "url": "./assets/image/tomato.png"
+                },
+                {
+                    "title": "Огурец",
+                    "url": "./assets/image/cucumber.png"
+                },
+                {
+                    "title": "Салат",
+                    "url": "./assets/image/salad.png"
+                },
+                {
+                    "title": "Лук",
+                    "url": "./assets/image/onion.png"
+                }
+            ],
+            "type": "checkbox"
+        },
+        {
+            "question": "Добавить соус?",
+            "answers": [
+                {
+                    "title": "Чесночный",
+                    "url": "./assets/image/sauce1.png"
+                },
+                {
+                    "title": "Томатный",
+                    "url": "./assets/image/sauce2.png"
+                },
+                {
+                    "title": "Горчичный",
+                    "url": "./assets/image/sauce3.png"
+                }
+            ],
+            "type": "radio"
+        }
+    ]
+}

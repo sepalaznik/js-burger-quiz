@@ -1,0 +1,76 @@
+﻿{
+    "questions": [
+        {
+            "question": "What color is the burger?",
+            "answers": [
+                {
+                    "title": "Standart",
+                    "imageUrl": "./assets/image/burger.png"
+                },
+                {
+                    "title": "Black",
+                    "imageUrl": "./assets/image/burger-black.png"
+                }
+            ],
+            "type": "radio"
+        },
+        {
+            "question": "What meat is the cutlet made from?",
+            "answers": [
+                {
+                    "title": "Chicken",
+                    "imageUrl": "./assets/image/meat-chicken.png"
+                },
+                {
+                    "title": "Beef",
+                    "imageUrl": "./assets/image/meat-beef.png"
+                },
+                {
+                    "title": "Pork",
+                    "imageUrl": "./assets/image/meat-pork.png"
+                }
+            ],
+            "type": "radio"
+        },
+        {
+            "question": "Additional ingredients?",
+            "answers": [
+                {
+                    "title": "Tomato",
+                    "imageUrl": "./assets/image/tomato.png"
+                },
+                {
+                    "title": "Cucumber",
+                    "imageUrl": "./assets/image/cucumber.png"
+                },
+                {
+                    "title": "Salad Lettuce",
+                    "imageUrl": "./assets/image/salad.png"
+                },
+                {
+                    "title": "Onion",
+                    "imageUrl": "./assets/image/onion.png"
+                }
+            ],
+            "type": "checkbox"
+        },
+        {
+            "question": "Add sauce?",
+            "answers": [
+                {
+                    "title": "Garlic",
+                    "imageUrl": "./assets/image/sauce1.png"
+                },
+                {
+                    "title": "Spicy Ketchup",
+                    "imageUrl": "./assets/image/sauce2.png"
+                },
+                {
+                    "title": "Mustard",
+                    "imageUrl": "./assets/image/sauce3.png"
+                }
+            ],
+            "type": "radio"
+        }
+    ]
+}
